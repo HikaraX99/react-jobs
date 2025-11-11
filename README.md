@@ -10,4 +10,5 @@
 `npm run dev`
 
 ## Preview
-<img width="2555" height="1325" alt="image" src="https://github.com/user-attachments/assets/cdb53601-97ba-4793-a80c-b92326fe152c" />
+<img width="1818" height="1298" alt="image" src="https://github.com/user-attachments/assets/f6af9960-2bbc-49e5-814e-7d390be4ab58" />
+
